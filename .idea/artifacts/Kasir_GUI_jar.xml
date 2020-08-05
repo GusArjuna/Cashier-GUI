@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Kasir GUI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Kasir_GUI_jar</output-path>
+    <root id="archive" name="Kasir GUI.jar">
+      <element id="module-output" name="Kasir GUI" />
+    </root>
+  </artifact>
+</component>
